@@ -39,7 +39,7 @@ Durante el desarrollo, se han encontrado algunos rasgos interesantes:
 - **Limitación:** Roraima `RR` (41 pedidos), Amapá `AP` (67) y Acre `AC` (80) tienen muestras pequeñas; sus promedios son poco estables.
 
 ### Categorías 
-- `health_beauty` (1.23 M), `watches_gifts` (1.17 M) y `bed_bath_table` (1.02 M) encabezan el ranking como las **Categorías con más ingresos:** .
+- `health_beauty` (1.23 M), `watches_gifts` (1.17 M) y `bed_bath_table` (1.02 M) encabezan el ranking como las **Categorías con más ingresos.**
 - `bed_bath_table` (9,272 pedidos) es la primera, seguida de health_beauty (8,647) y sports_leisure (7,530). en cuanto a volúmen
 - `watches_gifts` es 2.ª en ingresos pero 7.ª en volumen (5,495 pedidos), por su ticket alto. `bed_bath_table` es 1.ª en volumen pero 3.ª en ingresos, en la que se ve un **Contraste de ticket:**
 - **Limitación:** 1,537 ítems (1,392 pedidos) no tienen categoría; suman 170,727 en ingresos y quedan agrupados como `sin_categoria`.
@@ -56,4 +56,4 @@ Durante el desarrollo, se han encontrado algunos rasgos interesantes:
 - Los porcentajes suman más de 100% porque un pedido puede combinar métodos (por ejemplo, tarjeta más voucher).
 - `not_defined` (3 registros) se trata como anomalía y se excluye de la gráfica.
 
-Las recomendaciones paraEnfocar en mejorar la logística en los estados en que se entrega lento, así como incentivar los diversos métodos de pago, sin descuidar los pagos con tarjeta de crédito y enfocar en los productos que más se venden, y los que no se venden tanto, realizar temporada de ofertas para aumentar las ventas.
+Las recomendaciones para mejorar la eficiencia en las ventas, enfocar en mejorar la logística en los estados en que se entrega lento, así como incentivar los diversos métodos de pago, sin descuidar los pagos con tarjeta de crédito y enfocar en los productos que más se venden, y los que no se venden tanto, realizar temporada de ofertas para aumentar las ventas.
